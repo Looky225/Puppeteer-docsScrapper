@@ -1,0 +1,25 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+javaDoc.js
+javascriptInfo.pdf
+javascriptInfoPt3.pdf
+jestDocs.js
+jestDocs.pdf
+mergePdf.js
+nextDoc.pdf
+playWrightComplete.pdf
+playWrightDoc.js
+playwrightDocsPt2.pdf
+playwrightDocsPt3.pdf
+playwrightDocsPt4.pdf
+reactDocmerged.pdf
+reactDocPt1.pdf
+reactDocPt2.pdf
+reactSpider.js
+typeScriptDoc.js
+typescriptDocs.pdf
+w3school.js
