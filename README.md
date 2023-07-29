@@ -42,3 +42,6 @@ Disclaimer
 This project serves educational and personal purposes. Users are responsible for complying with the terms of service of the websites they scrape. The authors and contributors of this repository are not responsible for any misuse of the script or any consequences arising from it. Use the code responsibly and respect the policies of the websites you interact with.
 
 Happy scraping !
+
+Author: Assante Ahmad
+Email: loukmanassante@outlook.com
