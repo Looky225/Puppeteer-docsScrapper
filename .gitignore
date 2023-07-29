@@ -1,9 +1,4 @@
 # .gitignore
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-venv/
 javaDoc.js
 javascriptInfo.pdf
 javascriptInfoPt3.pdf
